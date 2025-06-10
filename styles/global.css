@@ -17,7 +17,7 @@ img{
 
 strong{
     color:var(--text-headline)
-    text-transform: uppercase;
+    text-transform uppercase;
 }
 
 
@@ -25,3 +25,16 @@ h1{
     font-size: 3.6rem;
     margin-block: 0.8rem 4.4rem;
 }
+h2{
+    font-size: 3.2rem;
+    margin-block: 0.2rem 0.8rem;
+}
+h1,h2,h3{
+    color: var(--text-primary);
+}
+h4{
+    color: var(--text-secundary);
+    font-size: 1.6rem;
+    
+}
+
